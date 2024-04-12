@@ -1,0 +1,25 @@
+{
+  "name": "hexo-front-matter-defaults",
+  "version": "0.0.0",
+  "description": "Front Matter Defaults for Hexo",
+  "keywords": ["hexo", "hexo-plugin", "front-matter", "frontmatter", "jekyll"],
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ourai/hexo-front-matter-defaults.git"
+  },
+  "author": "Ourai L. <ourairyu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ourai/hexo-front-matter-defaults/issues"
+  },
+  "dependencies": {
+    "@ntks/toolbox": "0.0.6"
+  },
+  "devDependencies": {
+    "ksio": "0.0.2"
+  },
+  "scripts": {
+    "release": "npm publish"
+  }
+}
